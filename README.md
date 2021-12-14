@@ -7,6 +7,4 @@
 *Prerequisite is having Java installed on the host OS. The latest distribution of Digital can be downloaded here  [Digital download page](https://github.com/hneemann/Digital/releases/tag/v0.28)*
 
 *[More instructions on Digital](https://github.com/hneemann/Digital)*
-1. `make`
-2. `./project04 <prog> [<arg1> ...]`
-For example, `./project04 sort 3 5 1 4`
+Driver program is in `project06.dig`.
